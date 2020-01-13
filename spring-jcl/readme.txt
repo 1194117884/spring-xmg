@@ -65,5 +65,11 @@ LogFactoryService extends LogFactory
     MyLogFactory
     MyLogAdaptor
 
+
+思考
+    面向接口编程
+    适配器模式
+    抽象工厂
+
 问题
     如何才能接入到Spring-jcl的LogAdapter呢？
